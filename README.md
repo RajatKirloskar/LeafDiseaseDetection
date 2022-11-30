@@ -16,3 +16,7 @@ The main objective of image processing is to isolate the infected area of the le
 To determin the healthiness of the leaf in percentage, the algorithm follows some rules that have been set in the fuzzy inference system.
 
 ![image](https://user-images.githubusercontent.com/108690286/204671046-89fecd58-4e9d-46ae-ae54-5a28b5e9ccb8.png)
+
+### RESULT
+![image](https://user-images.githubusercontent.com/108690286/204677638-1eaa5eef-fa70-4935-bf2f-1b3d246ca5e2.png)
+
